@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Content-Type>
+    <type>*</type>
+    <subtype>*</subtype>
+    <parameters>
+        <media-type-parameter-types key="3">Three</media-type-parameter-types>
+        <media-type-parameter-types key="2">Two</media-type-parameter-types>
+        <media-type-parameter-types key="1">One</media-type-parameter-types>
+    </parameters>
+</Content-Type>
